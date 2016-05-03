@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Erik Blanco      erikblancog@hotmail.com  @ErikBlanco
 
 # THANKS
 
